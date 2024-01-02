@@ -14,3 +14,9 @@
 ## Video demo: 
 
 https://youtu.be/TXMgcIILtGg
+
+## Nguồn tham khảo: 
+
+TankGame Project by ShawnLin1023
+
+Link source code tham khảo https://github.com/ShawnLin1023/TankGame

@@ -11,6 +11,11 @@
 | Leader| Bùi Đăng Huy | 21520039 | https://github.com/dh1501/IT008 |
 | Member| Lê Hữu Đạt   | 21520697 |                                 |
 
+
+## Link báo cáo: 
+
+https://youtu.be/TXMgcIILtGg
+
 ## Video demo: 
 
 https://youtu.be/TXMgcIILtGg

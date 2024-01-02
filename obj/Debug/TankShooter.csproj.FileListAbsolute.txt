@@ -1,0 +1,11 @@
+E:\TankShooter\bin\Debug\SuperTank.exe.config
+E:\TankShooter\bin\Debug\SuperTank.exe
+E:\TankShooter\bin\Debug\SuperTank.pdb
+E:\TankShooter\obj\Debug\TankShooter.csproj.AssemblyReference.cache
+E:\TankShooter\obj\Debug\SuperTank.frmGame.resources
+E:\TankShooter\obj\Debug\SuperTank.Properties.Resources.resources
+E:\TankShooter\obj\Debug\SuperTank.WindowsForms.frmMenu.resources
+E:\TankShooter\obj\Debug\TankShooter.csproj.GenerateResource.cache
+E:\TankShooter\obj\Debug\TankShooter.csproj.CoreCompileInputs.cache
+E:\TankShooter\obj\Debug\SuperTank.exe
+E:\TankShooter\obj\Debug\SuperTank.pdb

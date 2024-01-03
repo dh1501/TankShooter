@@ -14,7 +14,7 @@
 
 ## Link báo cáo: 
 
-[https://youtu.be/TXMgcIILtGg](https://drive.google.com/drive/folders/1PXqBbgafyDrjp7yrydwrMRAW9B42ZKXJ)
+https://drive.google.com/drive/folders/1PXqBbgafyDrjp7yrydwrMRAW9B42ZKXJ
 
 ## Video demo: 
 

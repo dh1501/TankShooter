@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1PXqBbgafyDrjp7yrydwrMRAW9B42ZKXJ
 
 ## Video demo: 
 
-https://youtu.be/TXMgcIILtGg
+https://youtu.be/7FLrFjy6UAU
 
 ## Nguồn tham khảo: 
 
